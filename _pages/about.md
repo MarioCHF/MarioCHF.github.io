@@ -18,6 +18,7 @@ Currently looking to pursue a PhD.
 
 Selected Projects
 ======
+
 Open Source Contributions
 ------
 TFM project ... 
@@ -30,5 +31,5 @@ Transformer from scratch...
 MLBasics...
 
 Professional Experience
-======
+------
  Research Fellow at IMSE...
