@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Mario's Homepage"
 title_separator          : "-"
-name                     : &name "Mario Chacón Falcón"
+name                     : &name "Mario Chacón-Falcón"
 description              : &description "personal description"
 url                      : https://mariochf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

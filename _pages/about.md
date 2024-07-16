@@ -13,10 +13,10 @@ I just finished a Master's Degree in Logic, Computation and Artificial Intellige
 
 I'm interested in developing new AI models, mainly focusing on sustainable AI (such as explainable AI, privacy preserving AI and energy efficient AI) but open to other possible research lines.
 
-Currently looking to pursue a PhD.
+Currently looking forward to pursue a PhD.
 
 
-Selected Projects
+Selected Experience
 ======
 
 Open Source Contributions
