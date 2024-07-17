@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 I'm a graduate in **Mathematics** at University of Sevilla (US).
+👨‍🎓 I'm a **graduate in Mathematics** at University of Sevilla (US).
 
 📚 I just finished a **Master's Degree in Logic, Computation and Artificial Intelligence** at University of Sevilla, with an average grade of 9.6 out of 10.
 
-💡 I'm interested in **developing new AI models**, mainly focusing on sustainable AI (such as explainable, privacy preserving or energy efficient AI), but open to other possible research lines.
+💡 I'm interested in developing new AI models, mainly focusing on sustainable AI (such as explainable, privacy preserving or energy efficient AI), but open to other possible research lines.
 
-🖊️ Currently **looking forward to pursue a PhD**.
+🖊️ Currently looking forward to pursue a PhD.
 
 
 Selected Experience
@@ -21,7 +21,7 @@ Selected Experience
 
 Open Source Contributions
 ------
-🔐 Developed a new privacy preserving algorithm for my Master's Thesis, using ensemble based federated learning, achieving evaluation metrics that compete with other 
+🔐 Developed a **new privacy preserving algorithm** for my Master's Thesis, using ensemble based federated learning, achieving evaluation metrics that compete with other 
 state of the art models (insertar link a publications). 
 
 Reimplementing and using AI models
