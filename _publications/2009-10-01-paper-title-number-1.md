@@ -1,9 +1,9 @@
 ---
-title: "A privacy-preserving federated learning adaptation of AdaBoost via knowledge distillation"
+title: 'A privacy-preserving federated learning adaptation of AdaBoost via knowledge distillation'
 collection: publications
 permalink: /publication/2024FedAdaBoost
 excerpt: 'On proceedings'
-date: ''
+date: 2024-12-02
 venue: ''
 slidesurl: '' 
 paperurl: ''
