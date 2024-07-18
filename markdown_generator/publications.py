@@ -81,10 +81,7 @@ for row, item in publications.iterrows():
     
     #md += "\ndate: " + str(item.pub_date) 
     
-    if str(item.pub_date) == '0000-00-00':
-        md += "\ndate: " + 'Not yet published'
-    else:
-        md += "\ndate: " + str(item.pub_date)
+    md += "\ndate: " + str(item.pub_date)
 
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
