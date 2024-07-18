@@ -3,8 +3,8 @@ title: 'A privacy-preserving federated learning adaptation of AdaBoost via knowl
 collection: publications
 permalink: /publication/2024FedAdaBoost
 excerpt: 'On proceedings'
-date: 2024-12-02
-venue: 
+date: ?
+venue:
 slidesurl: 
 paperurl: 
 citation: 
