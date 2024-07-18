@@ -33,4 +33,4 @@ Professional Experience
 ------
 ⭐ I'm currently working as a **Research Fellow** at the Microelectronics Institute of Sevilla (IMSE), thanks to CSIC's (Spanish National Research Council) introduction to research scholarship (JAE Intro ICU, AIHUB conexion). 
 At this time, my role is to develop new Spiking Neural Network architectures able to **learn synaptic delays** to classify spatio-temporal neuromorphic datasets. 
-Check out a recent poster presentation (introducir link) I made on the topic!
+Check out a recent [poster presentation](https://mariochf.github.io/talks/DSNN-Poster) I made on the topic!
