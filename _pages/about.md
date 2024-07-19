@@ -27,7 +27,7 @@ state of the art models (insertar link a publications).
 Reimplementing and using AI models
 ------
 🤖 Reimplemented the original transformer architecture proposed in the paper ["Attention is all you need"](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
- using PyTorch python's library, and used it to perform sentiment analysis as well as to classify a neuromorphic audio dataset (insertar link a portfolio).   
+ using PyTorch python's library, and used it to perform sentiment analysis as well as to classify a neuromorphic audio dataset. Click [here](https://mariochf.github.io/portfolio/TransformerReimpl) for more details.   
 
 Professional Experience
 ------
