@@ -1,6 +1,6 @@
 ---
 title: "Turing completeness of Spiking Neural P Systems"
-excerpt: "A review of the Spiking Neural P Systems (SNP) Turing completeness. <br/><img src='/images/Neurona.png'>"
+excerpt: "A review of the Spiking Neural P Systems (SNP) Turing completeness. <br/><img src='/images/neurona.png'>"
 collection: portfolio
 ---
 
@@ -15,4 +15,4 @@ The review begins with a first chapter illustrating the relationship of our mode
 [Download review](https://mariochf.github.io/files/SNPReviewMarioChacon.pdf)
 
 
-<br/><img src='/images/Neurona.png'>
+<br/><img src='/images/neurona.png'>
