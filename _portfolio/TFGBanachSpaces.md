@@ -1,6 +1,6 @@
 ---
 title: "On the study of geometrical properties of Banach Spaces"
-excerpt: "Final Bachelor's Thesis: Geometry of Banach Spaces: Normal Structure and Reflexivity <br/><img src='/images/uniformConvexity.png'>"
+excerpt: "Final Bachelor's Thesis: Geometry of Banach Spaces: Normal Structure and Reflexivity"
 collection: portfolio
 ---
 
@@ -31,18 +31,3 @@ In summary, we will visit some geometric properties of Banach spaces, relate the
 and give a characterization of them throughout their two dimensional subspaces.
 
 [Download TFG](https://mariochf.github.io/files/TFG_estructuraNormal.pdf)
-
-
-Geometric intuition of the roundness of uniform convex spaces
-------
-Let $x \in \mathbb{R}^2$. Let's denote:
-
-$$\|x\|_1 = \mathrm{max}{|x_1|,|x_2|}$$
-
-$$\| x\|_2 = \sqrt{x_1^2+x_2^2}$$
-
-In the next figure it can be seen that the space $(\mathbb{R}^2,\|\cdot \|_1)$ is not uniformly convex while $(\mathbb{R}^2,\|\cdot \|_2)$ is. 
-
-<br/><img src='/images/uniformConvexity.png'>
-
-Intuitively, the reason behind it is the roundness of the unit ball (any interior point in the segment between two points of its boundary lies in the interior of the unit ball). The formal definition of uniform convexity can be seen in the full document. 
