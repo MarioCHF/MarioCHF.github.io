@@ -1,6 +1,6 @@
 ---
 title: "Transformer reimplementation"
-excerpt: "An implementation of the original transformer arquitecture, including multihead attention module, as well as encoder and decoder blocks <br/><img src='/images/transformerAttAlluNeed.png'>"
+excerpt: "An implementation of the original transformer arquitecture, including multihead attention module, as well as encoder and decoder blocks <br/><img src='/images/transformerAttAllUNeed.png'>"
 collection: portfolio
 ---
 
