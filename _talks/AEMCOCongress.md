@@ -1,5 +1,5 @@
 ---
-title: 'A privacy-preserving federated learning adaptation of AdaBoost via knowledge distillation'
+title: 'A new federated learning adaptation of AdaBoost'
 collection: talks
 type: "Conference"
 permalink: /talks/AEMCOCongress
