@@ -21,8 +21,7 @@ Selected Experience
 
 Open Source Contributions
 ------
-🔐 Developed a [new privacy preserving algorithm](https://mariochf.github.io/publication/2024FedAdaBoost) for my Master's Thesis, using ensemble based federated learning, achieving evaluation metrics that compete with other 
-state of the art models. 
+🔐 Developed a new privacy preserving algorithm for my Master's Thesis, using ensemble based federated learning, achieving evaluation metrics that compete with other state of the art models. 
 
 Reimplementing and using AI models
 ------
